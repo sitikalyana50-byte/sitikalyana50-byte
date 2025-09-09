@@ -4,7 +4,7 @@
 
 <!-- Profile Photo -->
 <p align="center">
-  <img src="screenshot 2025-09-090145.png" alt="Siti Kalyana" width="250" style="border-radius:50%; box-shadow:0px 0px 15px #ff7eb3;" />
+  <img src="meycanti.png" alt="Siti Kalyana" width="250" style="border-radius:50%; box-shadow:0px 0px 15px #ff7eb3;" />
 </p>
 
 ---
